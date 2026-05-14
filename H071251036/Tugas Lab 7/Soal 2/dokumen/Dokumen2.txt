@@ -1,0 +1,1 @@
+Java adalah bahasa pemrograman yang mendukung multithreading.
