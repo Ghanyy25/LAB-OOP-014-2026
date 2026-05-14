@@ -1,0 +1,2 @@
+Java mendukung multithreading
+dan concurrency dengan thread pool.
